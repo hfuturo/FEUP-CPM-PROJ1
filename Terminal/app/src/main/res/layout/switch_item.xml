@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foregroundTint="@color/foreground">
+
+    <Switch
+        android:id="@+id/itemSwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:thumb="@drawable/baseline_dark_mode_24"
+        android:trackTint="@color/foreground"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+</RelativeLayout>

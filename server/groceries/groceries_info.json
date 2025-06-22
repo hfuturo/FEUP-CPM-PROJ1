@@ -1,0 +1,538 @@
+[
+    {
+        "category": "Fruit",
+        "sub_category": "Apple",
+        "name": "Golden-Delicious",
+        "image_path": "golden_delicious",
+        "price": 2.73,
+        "description": "Golden Delicious has a white juicy pulp and a greenish yellow shell. The taste is mellow and sweet, making Golden Delicious suitable for desserts.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Apple",
+        "name": "Granny-Smith",
+        "image_path": "granny_smith",
+        "price": 3.18,
+        "description": "Granny Smith is a green apple with white, firm pulp and a clear acidity in the flavor.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Apple",
+        "name": "Pink-Lady",
+        "image_path": "pink_lady",
+        "description": "Pink Lady reminds of Royal Gala, though it is an even sweeter and crispier apple.\n",
+        "price": 4.09
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Apple",
+        "name": "Royal-Gala",
+        "image_path": "royal_gala",
+        "description": "Royal Gala is a crispy and very juicy apple, with yellow-white pulp. The peel is thin with a red yellow speckled color.\n",
+        "price": 2.73
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Apple",
+        "name": "Red-Delicious",
+        "image_path": "red_delicious",
+        "price": 2.73,
+        "description": "Red Delicious is a dark red apple with relatively soft pulp and sweet taste.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Pear",
+        "name": "Conference",
+        "image_path": "conference",
+        "price": 2.73,
+        "description": "Conference is a medium sized pear with long-tapered bottle like shape and a rounded base. To the color, the Conference pear is light greenish yellow with gold brown spots. Pears taste the most when they are really ripe. Suitable for desserts, cheese tray or to eat as it is.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Pear",
+        "name": "Kaiser",
+        "image_path": "kaiser",
+        "description": "The Kaiser Pear is drip-shaped with matte, medium-thick, flaming yellow-brown or brownish shell. The yellowish white pulp is crispy, juicy and sweet, with some fresh acid. Kaiser pears match very well with dessert cheeses and wine, but it is also good to cook, as it retains its shape well.\n",
+        "price": 5.91
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Avocado",
+        "name": "Avocado",
+        "image_path": "avocado",
+        "description": "Avocado is a fruit with a clear core in the middle. The pulp is light yellow and the peel may vary from light green to dark green, almost black. Avocado fits for starters, salads and as an ingredient in Guacamole.\n",
+        "price": 1.36
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Pomegranate",
+        "name": "Pomegranate",
+        "image_path": "pomegranate",
+        "description": "Pomegranate has a sweet, gentle and refreshing taste, making pomegranate suitable for salads and desserts. It is only the kernels of the fruit that you eat. These are taken out by first cutting around the apple without destroying the core. Then turn both halves in opposite directions until they loosen. Finally, the kernels are loosened by knocking a wooden slab on the shell of the half, preferably over a bowl.\n",
+        "price": 2.73
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Kiwi",
+        "name": "Kiwi",
+        "image_path": "kiwi",
+        "price": 0.81,
+        "description": "Kiwi, or Chinese currants, as it is also called, has a sweet taste with clear acidity. The fruit is rich in vitamin C.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Lemon",
+        "name": "Lemon",
+        "image_path": "lemon",
+        "price": 0.63,
+        "description": "Lemon is used as a flavor in food and drinks and has a very tart and sour taste.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Plum",
+        "name": "Plum",
+        "image_path": "plum",
+        "description": "Ripe plums have soft and juicy pulp with sweet taste. Suitable for being eaten naturally, but is also used for preserving and pastries.\n",
+        "price": 3.64
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Nectarine",
+        "name": "Nectarine",
+        "image_path": "nectarine",
+        "description": "The nectarine is a stone fruit with plain peel and yellow or orange pulp, which is somewhat firmer than the peach. Nectarine is suitable for eating naturally but can also be used for pastry, marmalade and jam.\n",
+        "price": 3.91
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Red-Grapefruit",
+        "name": "Red-Grapefruit",
+        "image_path": "red_grapefruit",
+        "description": "The red grapefruit has a red pulp and a slightly pink colored peel. The taste is characteristically bitter, but at the same time fresh and sour. The red grapefruit is sweeter than the blonde grapefruit.\n",
+        "price": 0.91
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Lime",
+        "name": "Lime",
+        "image_path": "lime",
+        "price": 0.54,
+        "description": "The lime fruit, like lemon, has sour taste, with the difference that the lime is more juicy and flavorsome than the lemon. It is mainly the juice you use but also the shell can be used.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Mango",
+        "name": "Mango",
+        "image_path": "mango",
+        "price": 2.09,
+        "description": "Mango has a fresh, powerful and sweet taste, but a special exotic shade. Inside there is a large, oval kernel in which the pulp is grown in. This makes the best way to cut mango is with the shell on. Divide the fruit by cutting along on both sides of the core. Mango can be eaten naturally or in desserts, entrees and main courses.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Passion-Fruit",
+        "name": "Passion-Fruit",
+        "image_path": "passion_fruit",
+        "description": "Passion fruit is a small, round or oval fruit with yellow or dark brownish purple dented shell. Passion fruit's interior consists of many small edible kernels surrounded by succulent pulp. The taste is rich and fresh, and reminiscent of raspberries and orange.\n",
+        "price": 0.91
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Banana",
+        "name": "Banana",
+        "image_path": "banana",
+        "price": 2.54,
+        "description": "An ecologically grown banana. Bananas are good as snacks. The banana is temperature sensitive, very sensitive to dehydration, ethylene and cold damage. Store in room temperature or cool, never in a refrigerator.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Papaya",
+        "name": "Papaya",
+        "image_path": "papaya",
+        "description": "Papayan has a salmon-pink pulp that is buttery in the texture. The fruit is rich in vitamin A and C.\n",
+        "price": 5.0
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Satsumas",
+        "name": "Satsumas",
+        "image_path": "satsumas",
+        "price": 3.91,
+        "description": "Satsumas is a sweet and small type of citrus fruit. The fruit is popular as a snack.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Pineapple",
+        "name": "Pineapple",
+        "image_path": "pineapple",
+        "price": 2.54,
+        "description": "Pineapple fits well to be eaten naturally in for example desserts and fruit salad. Remember to remove the log in the middle.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Melon",
+        "name": "Honeydew-Melon",
+        "image_path": "honeydew_melon",
+        "description": "Honeydew melon is an oval shaped sugarmelon, with a yellow shell. The pulp is creamy light yellow with juicy, sweet and fresh taste, which is milder than other melons.\n",
+        "price": 3.18
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Melon",
+        "name": "Watermelon",
+        "image_path": "watermelon",
+        "price": 3.18,
+        "description": "Water melon juicier than sugar melons, and has a round peel with light green base color, with long-tied dark green stripes. The pulp is very juicy, mild and sweet, and occurs with and without kernels.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Melon",
+        "name": "Cantaloupe",
+        "image_path": "cantaloupe",
+        "price": 4.09,
+        "description": "The cantaloupe melon is a rather small and all round sugar melon, with a greenish yellow mesh patterned shell. The pulp is orange colored with juicy and sweet taste.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Melon",
+        "name": "Galia-Melon",
+        "image_path": "galia_melon",
+        "price": 5.46,
+        "description": "Galia melon is a small round sugar melon with a yellowish green, orange, or light brown mesh patterned shell. The pulp is firm and juicy, with a cream white to yellowish green color and a sweet, rich flavor.\n"
+    },
+    {
+        "category": "Fruit",
+        "sub_category": "Orange",
+        "name": "Orange",
+        "image_path": "orange",
+        "description": "There are many different types of oranges that ripen and is sold during different parts of the year. The orange is a very important vitamin C source and the vitamins are best kept if the fruit is eaten naturally.\n",
+        "price": 3.0
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Mushroom",
+        "name": "Brown-Cap-Mushroom",
+        "image_path": "brown_cap_mushroom",
+        "description": "The forest mushroom is also called chestnut mushroom, and is a brown mushroom with a fuller flavor than the white mushrooms. It can be eaten raw in for example salads, but are also good to boil, pan-fry or fry.\n",
+        "price": 2.73
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Onion",
+        "name": "Yellow-Onion",
+        "image_path": "yellow_onion",
+        "description": "Yellow onion is a good flavoring. Fits well both cold and hot in cooking.\n",
+        "price": 1.18
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Potato",
+        "name": "Solid-Potato",
+        "image_path": "solid_potato",
+        "description": "Solid potatoes. A good allround potato that fits well most of the time.\n",
+        "price": 1.82
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Potato",
+        "name": "Floury-Potato",
+        "image_path": "floury_potato",
+        "price": 3.45,
+        "description": "Floury potatoes. Extra good for mashed potatoes and to press.\n"
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Potato",
+        "name": "Sweet-Potato",
+        "image_path": "sweet_potato",
+        "description": "Sweet potatoes are oblong, irregularly shaped tubers, often slightly larger than regular potatoes. The peel is light brown or red. There are two varieties, one with light pulp and one with yellow orange pulp. Sweet potatoes are used like regular potatoes, but the taste is very different. The sweet potato is very sweet and a bit softer than regular potatoes. It can also be used in desserts, pies and cakes.\n",
+        "price": 4.55
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Cucumber",
+        "name": "Cucumber",
+        "image_path": "cucumber",
+        "description": "Fresh cucumber. Fits well in the salad or on the sandwich.\n",
+        "price": 1.63
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Carrots",
+        "name": "Carrots",
+        "image_path": "carrots",
+        "description": "The orange red color of the carrot comes from the high content of beta carotene, which in the body is converted into vitamin A. Tastefully, carrot is sweet, with a crunchy texture. Carrots can be eaten raw, and are also used in pots, gratins, soups and wok.\n",
+        "price": 1.45
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Red-Beet",
+        "name": "Red-Beet",
+        "image_path": "red_beet",
+        "price": 1.72,
+        "description": "Red beets has an earthy and sweet taste and is often eaten on the side, either cooked or preserved, for example, to pölsa, pyttipanna or steak Lindström. It is also common to make Borstj, red beet soup, but the beet can also be shredded as raw food. Red beets are slightly sensitive to heat, frostbites and dehydration and should therefore be kept cool.\n\n"
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Asparagus",
+        "name": "Asparagus",
+        "image_path": "asparagus",
+        "description": "Asparagus has a mild and nice taste and is good as an accessory, as well as a vegetable dishes by itself. Asparagus can be eaten raw, but is usually cooked by boiling in lightly salted water, or grilled. Fresh asparagus is recognized on the stiffness of the stalk, and is preferably stored in refrigerator temperature. The shelf life is maximum one week in the refrigerator, or a couple of days in room temperature.\n",
+        "price": 4.09
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Ginger",
+        "name": "Ginger",
+        "image_path": "ginger",
+        "price": 8.1,
+        "description": "Ginger is a herb with a characteristically sharp taste. It is used for flavoring and accessories, especially in Asian cuisine. Vegetables and curries, rice, pickles, meat and fish are good for flavoring with ginger. The rich aroma also fits well with cookies, biscuits, marmalades and sweet desserts.\n"
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Zucchini",
+        "name": "Zucchini",
+        "image_path": "zucchini",
+        "description": "Zucchini can be eaten raw, but is usually used in soups, pots, stews, etc.\n",
+        "price": 0.73
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Garlic",
+        "name": "Garlic",
+        "image_path": "garlic",
+        "description": "Garlic has unique flavor and smell, and is a good flavoring in pasta dishes, pots, mixes, etc.\n",
+        "price": 2.73
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Pepper",
+        "name": "Yellow-Bell-Pepper",
+        "image_path": "yellow_bell_pepper",
+        "price": 5.0,
+        "description": "The yellow pepper is much sweeter than the green. It also contains more vitamins and antioxidants than the green. Peppers are good to eat raw in salads and as garnish, but are also good to fry, stew or gratinate, for example with filling. Paprika also fits well in pots, gratins and pies.\n"
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Pepper",
+        "name": "Red-Bell-Pepper",
+        "image_path": "red_bell_pepper",
+        "price": 5.0,
+        "description": "The red peppers are much sweeter than the green ones. It also contains more vitamins and antioxidants than the green. Peppers are good to eat raw in salads and as garnish, but are also good to fry, stew or gratinate, for example. with filling. Paprika also fits well in pots, gratins and pies.\n"
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Pepper",
+        "name": "Green-Bell-Pepper",
+        "image_path": "green_bell_pepper",
+        "description": "There are a variety of colors of peppers. The most common ones are green, yellow, orange, red and white. The paprika always starts as green, but then shifts color when the it becomes more ripe. A green pepper is an unripe and hence a little firmer than the other ones, making it suitable for warm dishes, for example chili con carne, pies, gratin and various pots.\n",
+        "price": 4.55
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Aubergine",
+        "name": "Aubergine",
+        "image_path": "aubergine",
+        "price": 0.73,
+        "description": "Aubergine, or eggplant as it is also called, is usually dark violet. It has a shiny peel and is 15-20 cm long. The pulp is white. Aubergine is always eaten cooked. In addition to Moussaka, Aubergine fits well in pots and gratins.\n\n"
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Tomato",
+        "name": "Vine-Tomato",
+        "image_path": "vine_tomato",
+        "description": "Round tomatoes with vines in the package. Rinse and have in the salad or on the sandwich.\n",
+        "price": 3.64
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Tomato",
+        "name": "Beef-Tomato",
+        "image_path": "beef_tomato",
+        "description": "An extra large tomato suitable for well for hamburgers and on the grill or in the oven.\n",
+        "price": 4.82
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Tomato",
+        "name": "Regular-Tomato",
+        "image_path": "regular_tomato",
+        "price": 3.91,
+        "description": "Round and fine tomatoes from Sweden. Rinse and have in the salad or on the sandwich.\n"
+    },
+    {
+        "category": "Vegetables",
+        "sub_category": "Leek",
+        "name": "Leek",
+        "image_path": "leek",
+        "price": 2.73,
+        "description": "Leek has a slightly milder onion flavor and is preferably used for soups and pots, but can also be finely shredded into a salad. It is mainly the white part that is used, although it is fine to eat the green leaves.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Yoghurt",
+        "name": "Arla-Natural",
+        "image_path": "arla_natural",
+        "price": 2.73,
+        "description": "Creamy, slightly more acidic yoghurt with a clear yoghurt character. Acidic with selected bacterial strains giving extra clear yoghurt aroma. The yoghurt tastes as good for breakfast as snack and fits well with nuts, honey and fresh berries. With its creamy texture and clear acid, it is also great for kebab sauce, baking bread and yoghurt drinks. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Yoghurt",
+        "name": "Yoggi-Strawberry",
+        "image_path": "yoggi_strawberry",
+        "description": "Lovely creamy yoghurt rich in fruit. It is made of natural ingredients with a mild, round taste of strawberries and vanilla. Yoggi original is a pleasure that saturates and gives energy whenever you want. The taste is completely natural and it is the fruit that gives the yoghurt the fine color. The yoghurt suits the whole family and can be enjoyed at breakfast time, as a quick snack or a simple dessert. The symbol of the blueish yellow milk can guarantees 100 percent Swedish milk.\n",
+        "price": 2.63
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Yoghurt",
+        "name": "Valio-Vanilla",
+        "image_path": "valio_vanilla",
+        "description": "The original! Valio's creamy vanilla yoghurt original. The yogurt is carefully sugared with 30 percent less added sugar than regular flavored yogurt. Great for both breakfast and snacks.\n",
+        "price": 2.68
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Yoghurt",
+        "name": "Yoggi-Vanilla",
+        "image_path": "yoggi_vanilla",
+        "price": 2.63,
+        "description": "Creamy yoghurt made of natural ingredients with mild and tender taste of real vanilla from Madagascar. The yoghurt, estimated by both small and large, can be enjoyed at breakfast time, as a quick snack or a simple dessert. It belongs to the Yoggi original family, which is Sweden's most purchased fruit yoghurt. The symbol of the blueish yellow milk can guarantees 100 percent Swedish milk.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Yoghurt",
+        "name": "Arla-Mild-Vanilla",
+        "image_path": "arla_mild_vanilla",
+        "price": 2.32,
+        "description": "Mild and smooth vanilla yoghurt made of Swedish milk from Arlagårdar. The texture is creamy and tender, the taste soft and round. The yoghurt fits well for breakfast and snacks for the whole family. Eat it as it is or with muesli, flakes, fruit and berries. Vanilla yoghurt is also a perfect base for smoothies. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Sour-Milk",
+        "name": "Arla",
+        "image_path": "arla",
+        "price": 1.68,
+        "description": "Classic sour milk made from Swedish milk from Arlagårdar. The flavor is slightly acidic with characteristically sour milk aroma and light creaminess. The texture is a bit thicker and the sour milk can be eaten with muesli, cereal, fruit or berries. Sour milk has a long history in Sweden - already in the Viking era you have had sour milk-like products. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Soy-Milk",
+        "name": "Alpro-Fresh",
+        "image_path": "alpro_fresh",
+        "price": 2.0,
+        "description": "Fresh soy based drink, enriched with calcium and vitamins.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Soy-Milk",
+        "name": "Alpro-Shelf",
+        "image_path": "alpro_shelf",
+        "price": 2.0,
+        "description": "Soy based drink, enriched with calcium and vitamins. Can be stored in room temperature.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Milk",
+        "name": "Arla-Standard",
+        "image_path": "arla_standard",
+        "price": 1.54,
+        "description": "Fresh standard milk made from Swedish milk from Arlagårdar. The taste is round and full of clear flavors of cream. This makes it extra good for coffee, tea and chocolate. Standard milk can also be used for cooking, berries and porridge. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100 percent Swedish milk.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Milk",
+        "name": "Arla-Medium-Fat",
+        "image_path": "arla_medium_fat",
+        "description": "Fresh skimmed milk made from Swedish milk from Arlagårdar. Skimmed milk has a delicious full-bodied milk flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. Milk is a natural source of, for example, protein, calcium and vitamin B12. Protein contributes to muscle building and calcium is needed to maintain a normal bone structure. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+        "price": 1.5
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Milk",
+        "name": "Garant-Ecological",
+        "image_path": "garant_ecological",
+        "description": "Ecological milk from Swedish KRAV-labeled farms.\n",
+        "price": 1.5
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Milk",
+        "name": "Arla-Lactose",
+        "image_path": "arla_lactose",
+        "description": "Lactose-free skimmed milk made from Swedish milk from Arlagårdar. The product is designed for adults and children with lactose intolerance and is therefore free from lactose. The skimmed milk has a delicious full-bodied milk flavor and is a popular choice for breakfast cereals, porridge or as a drink for the meal. The brand Arla Ko guarantees that the product is made of 100% Swedish milk.\n",
+        "price": 1.72
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Oatghurt",
+        "name": "Oatly-Natural",
+        "image_path": "oatly_natural",
+        "price": 3.18,
+        "description": "Whole vegetable ghurt, used as yoghurt. Can also be used for cold sauces.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Oat-Milk",
+        "name": "Oatly",
+        "image_path": "oatly",
+        "price": 1.54,
+        "description": "A natural oat drink, enriched with calcium and vitamins. Has long shelf life and can be stored at room temperature.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Juice",
+        "name": "Bravo-Apple",
+        "image_path": "bravo_apple",
+        "price": 4.36,
+        "description": "Ready to drink apple juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Juice",
+        "name": "Bravo-Orange",
+        "image_path": "bravo_orange",
+        "description": "Ready to drink orange juice from concentrate. Fresh and sour taste. Fits the breakfast table, as quencher and meal drink. Without pulp.\n",
+        "price": 3.27
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Juice",
+        "name": "God-Morgon-Apple",
+        "image_path": "god_morgon_apple",
+        "price": 2.54,
+        "description": "God Morning Apple is unfiltered, which gives a richer, more delicious juice with real apple flavor.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Juice",
+        "name": "God-Morgon-Orange",
+        "image_path": "god_morgon_orange",
+        "description": "God Morgon Orange is pressed by sun-dried, hand-picked oranges. The package contains juice from 2 kilograms of oranges!\n",
+        "price": 3.27
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Soyghurt",
+        "name": "Alpro-Vanilla",
+        "image_path": "alpro_vanilla",
+        "price": 3.14,
+        "description": "Soy based ghurt, used as yoghurt, with mild vanilla taste and and creamy texture.\n"
+    },
+    {
+        "category": "Packages",
+        "sub_category": "Soyghurt",
+        "name": "Alpro-Blueberry",
+        "image_path": "alpro_blueberry",
+        "description": "Soy based ghurt, used as yoghurt, with mild blueberry taste and creamy texture.\n",
+        "price": 2.73
+    },
+    {
+        "category": "Dessert",
+        "sub_category": "Dubai Chocolate",
+        "name": "Dubai Chocolate",
+        "image_path": "dubai_chocolate",
+        "price": 104.99,
+        "description": "Dubai Chocolate is a luxurious confectionery that blends rich, premium cocoa with exotic Middle Eastern flavors."
+    }
+]

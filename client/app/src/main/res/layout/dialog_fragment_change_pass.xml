@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="10dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="10dp">
+
+        <TextView
+            android:id="@+id/changePassDefault"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/changeTextDefault" />
+
+        <TextView
+            android:id="@+id/changePassParameter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/changePassParameter"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/changePassOld"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp"
+            android:text="@string/changePassOld" />
+
+        <EditText
+            android:id="@+id/changePassOldInput"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:ems="10"
+            android:hint="@string/register_hint_pass"
+            android:inputType="textPassword" />
+
+        <TextView
+            android:id="@+id/changePassNew"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/changePassNew" />
+
+        <EditText
+            android:id="@+id/changePassNewInput"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:ems="10"
+            android:hint="@string/register_hint_pass"
+            android:inputType="textPassword" />
+
+        <TextView
+            android:id="@+id/changePassNewConfirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/changePassNewConfirm" />
+
+        <EditText
+            android:id="@+id/changePassNewConfirmInput"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginBottom="5sp"
+            android:ems="10"
+            android:hint="@string/register_hint_pass"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/changePassButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/blue"
+            android:textColor="@color/foreground"
+            android:text="@string/changeConfirm" />
+
+    </LinearLayout>
+</FrameLayout>

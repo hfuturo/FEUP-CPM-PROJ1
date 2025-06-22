@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="title_main2">Shopping Cart</string>
+
+    // change profile
+    <string name="profileTitleUser">User\'s Information</string>
+    <string name="profileTitleCard">Card\'s Information</string>
+    <string name="changeTextDefault">Editing</string>
+    <string name="changeTextParameter">Default</string>
+    <string name="changePassParameter">Password</string>
+    <string name="changePassOld">Write your old password:</string>
+    <string name="changePassNew">Write your new password:</string>
+    <string name="changePassNewConfirm">Write your new password again:</string>
+    <string name="changeTypeParameter">Type</string>
+    <string name="changeNumberParameter">Number</string>
+    <string name="changeDateParameter">Expiration Date</string>
+    <string name="changeConfirm">Confirm</string>
+
+    // content descriptor
+    <string name="image_qrcode_checkout">QR-Code Checkout Message</string>
+    <string name="image_error_image">Error Icon</string>
+    <string name="image_eliminate_product">Product Elimination Icon</string>
+    <string name="image_profile_editor">Editor</string>
+
+    // hint
+    <string name="hint_product_value">Product Value</string>
+    <string name="hint_voucher_value">Voucher Value</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="details">Please enter your details</string>
+    <string name="update">Update</string>
+    <string name="go_back">Go Back</string>
+    <string name="conclude">Conclude</string>
+
+    // register fragment
+    <string name="register_hint_name">Name</string>
+    <string name="register_hint_nick">Nickname</string>
+    <string name="register_hint_pass">Password</string>
+    <string name="register_button">Register</string>
+    <string name="register_error">Error</string>
+    <string name="register_cart_number">Card Number</string>
+    <string name="register_cart_date">Expiration Date</string>
+    <string name="register_cart_date_mask">__/__</string>
+    <string name="register_cart_type_1">Visa</string>
+    <string name="register_cart_type_2">Mastercard</string>
+    <string name="register_cart_type_3">Discover</string>
+
+    // login fragment
+    <string name="login_hint_name">Name</string>
+    <string name="login_hint_nick">Nickname</string>
+    <string name="login_hint_pass">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_error">Error</string>
+
+    // menu
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_transactions">Past Transactions</string>
+    <string name="menu_vouchers">Discount &amp; Vouchers</string>
+
+    // bottom bar shopping
+    <string name="bottom_button_qr">Scan Product QR Code</string>
+    <string name="bottom_button_bar">Scan Bar</string>
+    <string name="bottom_button_end">Checkout</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="product_name">Product Name</string>
+    <string name="product_value">%d%%</string>
+    <string name="product_price">€%.2f</string>
+    <string name="total_value_label">Total Value:</string>
+    <string name="total_value_default">€0,00</string>
+    <string name="lv_empty_message">Empty list</string>
+    <string name="price_format">€%.2f</string>
+    <string name="discount_format">- €%.2f</string>
+
+    <string name="spinner_order">Order by </string>
+    <string name="spinner_filter">Filter by </string>
+    <string name="search">Search for a specific product…</string>
+    <string name="tv_nfc_send">Tap to send</string>
+    <string name="tv_nfc_msg">Tap to send</string>
+
+    <string name="optionDiscount">Select if you want to use your discount:</string>
+
+    <string name="option">Choose the payment option:</string>
+    <string name="option_qrcode">QR-Code</string>
+    <string name="option_nfc">NFC</string>
+    <string name="option_close">Close</string>
+
+    <string name="service_name">List and Key</string>
+    <string name="card_title">Sending Card</string>
+    <string name="contentDescriptionClose">Close</string>
+
+    <string name="checkout_option_discount">Select if you want to use your discount:</string>
+    <string name="checkout_option_voucher">Select the voucher you want to use:</string>
+    <string name="checkout_option_type_pay">Select the payment type:</string>
+    <string name="checkout_confirm">Checkout</string>
+
+    // vouchers fragment
+    <string name="text_discount">Total Discount:</string>
+    <string name="text_vouchers">Total Vouchers:</string>
+    <string name="total_discount_default">€0,00</string>
+    <string name="total_vouchers_default">0</string>
+    <string name="theme">Theme</string>
+    <string name="checkout_total">Total:</string>
+    <string name="checkout_discount">Discount:</string>
+    <string name="checkout_new_total">New total:</string>
+    <string name="discount_gained">Discount gained (15%):</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Terminal</string>
+  <string name="mn_qr">Scan QR code</string>
+  <string name="tv_title">NFC Receiver</string>
+  <string name="tv_waiting">Waiting for a tap</string>
+  <string name="bt_clear">Clear</string>
+  <string name="tv_neutral">No Payment Done</string>
+  <string name="tv_error">Error in Payment</string>
+  <string name="tv_success">Success in Payment</string>
+  <string name="menu_mode">Mode</string>
+</resources>
