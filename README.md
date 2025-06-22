@@ -1,5 +1,8 @@
 # M.EIC 2024/2025 CPM - 1st Assignment
 
+## Grade
+18.5
+
 ## Team
 
 By Group 5:
